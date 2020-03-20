@@ -1,0 +1,4 @@
+/fileToIgnore.txt
+
+#ignore auto generated files
+auto-gen-files/*
