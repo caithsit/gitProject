@@ -1,4 +1,4 @@
 /fileToIgnore.txt
 
 #ignore auto generated files
-auto-gen-files/*
+auto-gen-files/*.txt
